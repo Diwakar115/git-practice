@@ -1,1 +1,1 @@
-hello earth
+this file is for git conflict
